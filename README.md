@@ -1,2 +1,3 @@
-# bluetooth_sensor_communication
-uses bluetooth as a medium to communicate with sensors and perform coded actions.
+
+<br>change the sensor pins according to your connections</br>
+<br>use any bluetooth terminal apps to communicate with the bluetooth sensor available in google play</br>
